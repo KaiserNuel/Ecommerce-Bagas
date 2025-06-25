@@ -121,6 +121,12 @@ $kode_transaksi = strtoupper(random_string('alnum',6));
 		</tr>
 		<tr>
 			<td>
+				<b>Ukuran</b>
+				<textarea name="ukuran" class="form-control" placeholder="ukuran"><?php echo $produk->ukuran ?></textarea>
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<b>Email Penerima</b>
 				<input type="email" name="email" class="form-control" placeholder="Email" value="<?php echo $pelanggan->email ?>" required>
 			</td>

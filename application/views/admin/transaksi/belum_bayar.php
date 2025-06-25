@@ -2,7 +2,7 @@
 	<thead>
 		<tr>
 			<th>No</th>
-			<th width="25%">Nama Pelanggan</th>
+			<th width="25%">Data Pelanggan</th>
 			<th>Kode</th>
 			<th>Tanggal</th>
 			<th>Jml Total</th>
